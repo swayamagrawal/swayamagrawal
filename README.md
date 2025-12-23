@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Swayam 👋
 
-<!--
-**swayamagrawal/swayamagrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 3rd year Electrical & Computer Engineering student with a strong interest in open-source software development.
 
-Here are some ideas to get you started:
+## 🔧 Technical Skills
+- Programming: C, C++, Python, Java (basic)
+- Tools: Git, GitHub, Linux
+- Interests: Open Source, Systems Programming, Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Advanced Python
+- Open-source contribution workflow
+- Large codebase reading & debugging
+
+## 🎯 Goals
+- Active open-source contributor
+- Google Summer of Code aspirant
+
+## 📫 Contact
+- GitHub: https://github.com/swayamagrawal
