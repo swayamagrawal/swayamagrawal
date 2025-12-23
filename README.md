@@ -1,6 +1,6 @@
 # Hi, I'm Swayam 👋
 
-I am a 3rd year ECE with a strong interest in open-source software development.
+I am a 3rd year Electronics & Communication Engineering (ECE) student with a strong interest in open-source software development.
 
 ## 🔧 Technical Skills
 - Programming: C, C++, Python, Java (basic)
