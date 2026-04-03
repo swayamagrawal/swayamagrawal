@@ -28,12 +28,26 @@
 * 🎓 B.Tech in Electrical and Computer Engineering @ Shiv Nadar University (Expected 2027)
 * 🐍 Open-source contributor focused on **Python packages and API systems**
 * 🔧 Full-stack developer with **MERN stack** and **Docker** experience
-* 🎯 Working on **data-driven applications** and **API client libraries**
+* 🎯 Working on **data-driven applications**, **API client libraries**, and **document processing systems**
 * 💡 Passionate about **clean code, testing, and developer tools**
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🔹 PDF Processing Platform (Production)
+
+* Built and deployed a **full-stack PDF processing platform** with multiple tools
+* Supports **merge, split, compress, rotate, watermark, and page operations**
+* Advanced features like **visual page selection, PDF health checking, and secure PDF protection**
+* Optimized UI with **real-time progress tracking and modular workspaces**
+* Deployed using **Vercel (frontend)** and **Railway (backend)**
+
+**Tech:** Next.js, React, Node.js, Express.js, Tailwind CSS, REST APIs
+
+**Live Demo:** https://aurapdf.com
+
+---
 
 ### 🔹 noaa_coops Contributions
 
