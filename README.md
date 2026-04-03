@@ -1,6 +1,6 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Swayam+Agrawal;Backend+%26+API+Systems+Developer;Python+%7C+Data+APIs+%7C+Open+Source;Building+Reliable+Data-Driven+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Swayam+Agrawal;Full+Stack+%26+Backend+Developer;Python+%7C+MERN+%7C+Docker+%7C+APIs;Building+Reliable+Data-Driven+Systems" />
 </p>
 
 ---
@@ -8,8 +8,8 @@
 # 👋 Hi, I'm Swayam Agrawal
 
 <p align="center">
-🚀 <b>Backend & API Systems Developer</b> <br>
-🐍 Python • REST APIs • Data Processing <br>
+🚀 <b>Full Stack & Backend Developer</b> <br>
+🐍 Python • MERN Stack • Docker • REST APIs <br>
 ⚡ Building reliable tools for real-world data access
 </p>
 
@@ -18,7 +18,7 @@
 ## 🧩 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,nodejs,express,mongodb,linux,git,postman" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,nodejs,express,react,mongodb,docker,linux,git,html,css,postman" />
 </p>
 
 ---
@@ -27,7 +27,7 @@
 
 * 🎓 B.Tech in Electrical and Computer Engineering @ Shiv Nadar University (Expected 2027)
 * 🐍 Open-source contributor focused on **Python packages and API systems**
-* 🔧 Backend developer with experience in **Node.js, MongoDB, and REST APIs**
+* 🔧 Full-stack developer with **MERN stack** and **Docker** experience
 * 🎯 Working on **data-driven applications** and **API client libraries**
 * 💡 Passionate about **clean code, testing, and developer tools**
 
@@ -44,6 +44,10 @@
 
 **Tech:** Python, Pandas, pytest, REST APIs
 
+**Links:**
+- [PR #7 - Automated Data Iteration](https://github.com/Tjima/noaa_coops_dev/pull/7)
+- [PR #10 - Date Parsing Fix](https://github.com/Tjima/noaa_coops_dev/pull/10)
+
 ---
 
 ### 🔹 Air Quality Analyzer
@@ -51,8 +55,11 @@
 * Real-time air quality data fetcher using **public APIs**
 * Multi-city comparison and **data analysis pipeline**
 * JSON processing with **Pandas and NumPy**
+* Generates comparison reports and visualizations
 
 **Tech:** Python, REST APIs, Pandas, NumPy, JSON
+
+**Repository:** [air-quality-analyzer](https://github.com/swayamagrawal/air-quality-analyzer)
 
 ---
 
@@ -62,8 +69,11 @@
 * **JWT-based authentication** and secure API design
 * Account management with **MongoDB**
 * Input validation and structured error handling
+* RESTful API architecture
 
 **Tech:** Node.js, Express.js, MongoDB, JWT
+
+**Repository:** [ledger-backend](https://github.com/swayamagrawal/ledger-backend)
 
 ---
 
@@ -73,17 +83,19 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=swayamagrawal&theme=tokyo-night&hide_border=true" />
 
+💡 **What this shows:**
+- Focus on **building and improving real-world systems**
+- Active involvement in **open-source contributions**
+- Consistent work on **backend and data processing projects**
+
 ---
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swayamagrawal&theme=tokyonight" />
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/swayamagrawal/swayamagrawal/blob/output/github-contribution-grid-snake.svg" />
-</p>
+📌 **Activity Breakdown:**
+- Majority of work focused on **Python and JavaScript development**
+- Active in **feature building and bug fixes**
+- Growing contributions to **open-source projects**
 
 ---
 
@@ -93,6 +105,11 @@
 * 🔧 Improving **API client libraries** and **data access tools**
 * 🧪 Focus on **testing, documentation, and code quality**
 * 🎯 Building tools that **researchers and developers** actually use
+
+**Current Focus:**
+- Enhancing oceanographic data access tools
+- API reliability and performance improvements
+- Clean code practices and comprehensive testing
 
 ---
 
